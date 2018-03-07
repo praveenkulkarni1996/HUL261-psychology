@@ -25,7 +25,8 @@
 	* Motion of a moving object is perceived relative to some stable unmvoing background. (e.g. think of an approaching ball).
 	* If the object is moving twards us, the image on the retina exapnds (objects occupies more and more space).
 	* [Cliff experiments](https://en.wikipedia.org/wiki/Visual_cliff) are the strongest evidence that depth perception is innate (rather than learned). Research was commissioned because they wanted to find out if pilots could be trained to improve depth perception.
-	* Can't drive at the age of 11, because motion coordination is not developed at the age of 11. Can't drink and drive ... etc.
+	* Can't drive at the age of 11, because motion 
+	* coordination is not developed at the age of 11. Can't drink and drive ... etc.
 	* Proprioception - vestibular system in the ears. 
 		* Visual system factors the positon of our eyes and our head when perceiving motion. 
 		* Phantom Limb
@@ -40,3 +41,12 @@
 	* Physical stimuli that consistently produce errors in perception
 	* The parthenon
 	* Muller Lyer, length perception
+
+## 5th March: Monday Tutorial 
+
+* [Video on _Depth perception_](https://www.youtube.com/watch?v=I3awSm3C1Js)
+* [Video on _The visual cliff_](https://www.youtube.com/watch?v=p6cqNhHrMJA)
+* [Video on _The rotating mask illusion_](https://www.youtube.com/watch?v=sKa0eaKsdA0)
+* 9-12 month babies have depth perception
+* Illusions - Stereograms
+* 
