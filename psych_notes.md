@@ -49,4 +49,27 @@
 * [Video on _The rotating mask illusion_](https://www.youtube.com/watch?v=sKa0eaKsdA0)
 * 9-12 month babies have depth perception
 * Illusions - Stereograms
-* 
+
+
+## Thursday: 8th March
+
+* Who is the hunter aiming at?
+	* Elephant and Deer picture
+	* apriori expectations
+* western interpretation vs african
+	* The westerners use distance as a cue and perceive that the hunter is aiming for the antelope (which appears bigger because it is closer)
+	* The African tribe fails to use this cue and perceives that the elephant is the target.
+   * Cultural difference in perception.
+* Subliminal perception
+	* Perception without awareness.
+	* A stimuli (called prime) activates a sensory system but is not intense enough for a person to be aware of experiencing it.
+	* 'Prime' can be written word, sound, smell.
+	* Quarter second coke superbowl ads.
+		* Primes are banned in advertising now. Defense does research now.
+* Extra Sensory Perception
+	* ESP: An anomalous process of information transfer
+	* Psi, clairvoyance, telepathy, precognition
+* Total Field experiments (Ganzfield)
+   * 38% of accuracy between sender-receiver.
+   * 23 of of 28 replicated Ganzfield results.
+   * Congitive Science versus Parapsychology.
