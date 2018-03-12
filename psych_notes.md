@@ -1,6 +1,6 @@
 # Pyschology HUL261
 
-## Monday : 5th March
+## Monday, 12th March: Lecture
 
 * Hermann Grid
 	* Ganglion cells
@@ -42,8 +42,7 @@
 	* The parthenon
 	* Muller Lyer, length perception
 
-## 5th March: Monday Tutorial 
-
+## Monday, 5th March: Tutorial
 * [Video on _Depth perception_](https://www.youtube.com/watch?v=I3awSm3C1Js)
 * [Video on _The visual cliff_](https://www.youtube.com/watch?v=p6cqNhHrMJA)
 * [Video on _The rotating mask illusion_](https://www.youtube.com/watch?v=sKa0eaKsdA0)
@@ -51,7 +50,7 @@
 * Illusions - Stereograms
 
 
-## Thursday: 8th March
+## Thursday, 8th March: Lecture
 
 * Who is the hunter aiming at?
 	* Elephant and Deer picture
@@ -73,3 +72,47 @@
    * 38% of accuracy between sender-receiver.
    * 23 of of 28 replicated Ganzfield results.
    * Congitive Science versus Parapsychology.
+
+
+## Monday, 12th March: Lecture
+
+* What is consciousness ?
+  	* Euthenasia
+  	* 3rd year of PhD: 
+     	* Painkiller + Asthama medication - allergic reaction
+     	* 12 minutes of oxygen deprivation - Hypoxia
+* Lockton Phenomemon
+  	* Awareness of sensation, thoughts , and feelsings we experience at a given moment
+  	* A subjective understanding of both the external environment around us and our internal environment
+* History of consciousness research
+	* Dualism : _body contributes to consciousness_
+ 	* Materialism :
+ 	* Split brain :
+ 	* AI : _don't have subjectivity yet_ 
+* Lunchline effect: _can quickly divert attention whenever name is mentioned_.
+ 	* Best known solution, we are primed to pay attention to our name. 
+ 	* Need to know the non-names. Discrimination.
+* Kinds of consciousness
+  	* Non conscious - unconscious: _Freudian slips_
+  	* Access consciousness: conscious vs automatic
+  	* Waking vs altered
+* 3 Point of contentions
+	* separation of consciousness from physical body: _first benchers vs back benchers_ 
+	* existence and consciouness
+	* mind-body and consciousness
+
+## Monday, 12th March: Tutorial
+* __Explanation of blindness__
+  
+* __What is Change Blindness?__
+	* Change blindness is a phenonmemon that occurs wehn a person is unable to notice visulal changes in their enivronment, despite the fact that they are often rather obvious . In the case of ....
+
+* __The Invisible Gorilla Study__
+	* The researcher *Dianiel Simons* conducted a fascinating study into change blindness that many people find unbelievable. In Simon's' study he asked aprticipants to watch a video of a basketball being passed around between several people, with a particular focus on the basketball itself.
+	* When the experiment was over, Simons found that a large number of participants were so focused on watching the basketball, that they didn't notice the gorilla.
+* __Innattentional Blindness__
+	* It's important to note that the change in Simon's video wasn't subtle. The gorilla is very obviously taking up much fo the frame. Simons concluded that participants were experiencing _innattentional blindness_, which is when a _person fails to notice a major change because they are focused on another task_. In this case, because participants were asked to focus on the movement of the basketball, their brains prioritized that task in order to do it properly, therby missing the other things happened in the video. 
+	* In the case of Simons' study, participants engaged what's referred to as attentional selection, which is when a person selects certain things to focus on in order to achieve a task and filters out anything that is unrelated to the objective.
+	* _MOOC at Caltech vs VIT_
+	* _Vegetarianism vs Non-vegetarianism vs Cannibalism : agent can argue_
+* Paper presentation next class.
