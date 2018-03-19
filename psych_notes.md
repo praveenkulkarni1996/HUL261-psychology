@@ -116,3 +116,41 @@
 	* _MOOC at Caltech vs VIT_
 	* _Vegetarianism vs Non-vegetarianism vs Cannibalism : agent can argue_
 * Paper presentation next class.
+
+## Thursday, 19th March: Lecture
+
+Missed
+
+## Monday, 19th March: Lecture 
+* __Hypnosis__
+	* Heightened susceptibility to the suggestion of others in a trance-like state. 
+	* Associated with organized religion and psychedelic drugs.
+	* Alteration of consciousness.
+* __Whom do we lock up__
+	* Asylums inmates - internal world not representative of the external world.
+* __Eats twins' uneaten tiffin boxes that had fallen down.__
+	* Story, trajectory, knowledge.
+* Story of children guessing what's in a box. 
+	* Can't imagine that the box doesn't contain what he/she is thinking. 
+	* Point of view, how do you see the external world, and how is it representated in your mind. It is also gained with time, and also lost with age.
+* __Hypnosis, Psychological Science__
+	* non-pharmalogical, non-invasive state, don't need anasthesia. 
+* __Simplicity of Suggestion__
+	* Self-fulfilling suggestion - _"If I say that you are going to fail, then you probably will"_.
+* __Myths__
+	* People do not lose all of their will power. 
+	* They do not perform antisocial behaviour. 
+	* THey will not carry out self-destructive acts. 
+	* They do not reveal hidden truths about themselves, and are capable of lying. 
+	* People cannot be hypnotized against their will.
+* __Hypnosis: Theoretical debate__
+	 _Is it a state different than normal waking state? Yes. Why?_ High suggestibility, increased ability to recall and construct images, acceptance of suggestions that con tradict reality, and changes in electical activity all suggest it is a different state.
+	* _It is a divided consciouness. Why?_ Hypnosis dbrings a dissociation/division of sonsciousness into two components: One in which they follow the commands of the hypnotists and another they act as 'hidden observer' aware of what is happening.
+	* Electirical activity is not accompanied by any other physiological changes. No evidence for recall of childhood memories. 
+* __Uses/applications__
+	*  Controlling pain. 
+	*  Reducing smoking. 
+	*  Psychological disorders (anxiety). 
+	*  Law: imporoving eyewitness recall. 
+	*  Sports psychology.  
+	
